@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Alvaro Crego</h1>
+        <h1>Jacobo Segovia</h1>
     </body>
 </html>
