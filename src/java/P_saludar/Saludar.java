@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author raznara -- vvvddddd
+ * @author  raznara
  */
 public class Saludar extends HttpServlet {
 
