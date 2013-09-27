@@ -12,6 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Diana Ortega</h1>
+        <h1>Hello World!</h1>
+        <p>Estamos en 2º DAW</p>
     </body>
 </html>
