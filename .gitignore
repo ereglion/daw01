@@ -4,5 +4,9 @@
 *.jar
 *.war
 *.ear
+<<<<<<< HEAD
 /nbproject/private/
 /build/
+=======
+/nbproject/private/
+>>>>>>> origin/Diana
