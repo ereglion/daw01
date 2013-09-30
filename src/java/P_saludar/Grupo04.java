@@ -42,7 +42,7 @@ public class Grupo04 extends HttpServlet {
             out.println("<h1>Servlet Grupo04 at " + request.getContextPath() + "</h1>");
             out.println("<a href=\"sMartin.jsp\">Página Sergio Martín</a><br/>");
             out.println("<a href=\"pbenito.jsp\">Página Pedro Benito</a><br/>");
-            out.println("<a href=\"anavarro.jsp\">Página Antonio Navarro</a><br/>");
+            out.println("<a href=\"antonionp.jsp\">Página Antonio Navarro</a><br/>");
             out.println("<a href=\"emembrillas.jsp\">Página Edu Membrillas</a><br/>");
             out.println("<a href=\"jgrancha.jsp\">Página José Grancha</a>");
             out.println("</body>");
