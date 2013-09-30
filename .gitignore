@@ -5,8 +5,12 @@
 *.war
 *.ear
 <<<<<<< HEAD
+<<<<<<< HEAD
 /nbproject/private/
 /build/
 =======
 /nbproject/private/
 >>>>>>> origin/Diana
+=======
+/nbproject/private/
+>>>>>>> origin/enrique
