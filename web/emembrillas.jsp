@@ -13,7 +13,7 @@
     </head>
     <body>
         <h1>Hola Gente, soy Eddie!</h1>
-        <h2>Hola Pipol, soy de Master!</h2>
+        <h2 style="color:red;">Hola Pipol, soy de Master!</h2>
         <a href="/01-Holamundo">Volver</a>
     </body>
 </html>
