@@ -1,0 +1,15 @@
+#*.class
+
+# Package Files #
+#*.jar
+#*.war
+#*.ear
+#/nbproject/private/
+#/build/
+<<<<<<< HEAD
+/nbproject/private/
+/build/
+=======
+/build/
+/nbproject/private/
+>>>>>>> 71baeb76e1a3325335ebd22550ed820a43837eaf

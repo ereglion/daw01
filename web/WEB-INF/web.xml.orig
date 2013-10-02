@@ -12,11 +12,11 @@
         <servlet-name>Saludar</servlet-name>
         <url-pattern>/saludarmeme</url-pattern>
     </servlet-mapping>
-
+<<<<<<< HEAD
     <servlet-mapping>
         <servlet-name>Grupo04</servlet-name>
         <url-pattern>/Grupo04</url-pattern>
-
+=======
      <servlet>
         <servlet-name>grupo1Servlet</servlet-name>
         <servlet-class>P_saludar.grupo1Servlet</servlet-class>
@@ -24,7 +24,7 @@
     <servlet-mapping>
         <servlet-name>grupo1Servlet</servlet-name>
         <url-pattern>/grupo1Servlet</url-pattern>
-
+>>>>>>> 71baeb76e1a3325335ebd22550ed820a43837eaf
     </servlet-mapping>
     <session-config>
         <session-timeout>

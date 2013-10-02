@@ -12,27 +12,13 @@
         <servlet-name>Saludar</servlet-name>
         <url-pattern>/saludarmeme</url-pattern>
     </servlet-mapping>
-
     <servlet-mapping>
         <servlet-name>Grupo04</servlet-name>
         <url-pattern>/Grupo04</url-pattern>
-
-     <servlet>
-        <servlet-name>grupo1Servlet</servlet-name>
-        <servlet-class>P_saludar.grupo1Servlet</servlet-class>
-    </servlet>
-    <servlet-mapping>
-        <servlet-name>grupo1Servlet</servlet-name>
-        <url-pattern>/grupo1Servlet</url-pattern>
-
     </servlet-mapping>
     <session-config>
         <session-timeout>
             30
         </session-timeout>
     </session-config>
-    <welcome-file-list>
-        <welcome-file>index.html</welcome-file>
-        <welcome-file>index.jsp</welcome-file>
-    </welcome-file-list>
 </web-app>
