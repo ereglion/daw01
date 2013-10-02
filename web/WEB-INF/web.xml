@@ -6,7 +6,7 @@
     </servlet>
     <servlet>
         <servlet-name>Grupo04</servlet-name>
-        <servlet-class>P_saludar.Grupo04</servlet-class>
+        <servlet-class>P_saludar.Grupo03</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>Saludar</servlet-name>

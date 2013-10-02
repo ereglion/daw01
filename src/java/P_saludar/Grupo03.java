@@ -15,7 +15,7 @@ import javax.servlet.http.HttpServletResponse;
  *
  * @author al037455
  */
-public class Grupo04 extends HttpServlet {
+public class Grupo03 extends HttpServlet {
 
     /**
      * Processes requests for both HTTP
