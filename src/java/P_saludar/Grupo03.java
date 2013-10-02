@@ -15,7 +15,7 @@ import javax.servlet.http.HttpServletResponse;
  *
  * @author al037455
  */
-public class Grupo04 extends HttpServlet {
+public class Grupo03 extends HttpServlet {
 
     /**
      * Processes requests for both HTTP
@@ -36,15 +36,14 @@ public class Grupo04 extends HttpServlet {
             out.println("<!DOCTYPE html>");
             out.println("<html>");
             out.println("<head>");
-            out.println("<title>Servlet Grupo04</title>");
+            out.println("<title>Servlet Grupo03</title>");
             out.println("</head>");
             out.println("<body>");
-            out.println("<h1>Servlet Grupo04 at " + request.getContextPath() + "</h1>");
-            out.println("<a href=\"sMartin.jsp\">Página Sergio Martín</a><br/>");
-            out.println("<a href=\"pbenito.jsp\">Página Pedro Benito</a><br/>");
-            out.println("<a href=\"antonionp.jsp\">Página Antonio Navarro</a><br/>");
-            out.println("<a href=\"emembrillas.jsp\">Página Edu Membrillas</a><br/>");
-            out.println("<a href=\"jgrancha.jsp\">Página José Grancha</a>");
+            out.println("<h1>Servlet Grupo03 at " + request.getContextPath() + "</h1>");
+            out.println("<a href=\"AlexJsp.jsp\">Página Alex</a><br/>");
+            out.println("<a href=\"dani.jsp\">Página Dani</a><br/>");
+            out.println("<a href=\"jordiSaludo.jsp\">Página Jordi</a><br/>");
+            out.println("<a href=\"index.jsp\">Página Javi(Master)</a>");
             out.println("</body>");
             out.println("</html>");
         } finally {

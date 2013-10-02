@@ -1,6 +1,6 @@
 <%-- 
-    Document   : index
-    Created on : 02-oct-2013, 11:49:07
+    Document   : jordiSaludo
+    Created on : 02-oct-2013, 11:52:15
     Author     : mati
 --%>
 
@@ -12,7 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Pagina del Master(Javi)</h1>
-        <a href="/01-Holamundo/Grupo03">Ir al servlet</a>
+        <h1>Hola buenos dias de parte de jordi</h1>
     </body>
 </html>

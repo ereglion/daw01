@@ -1,6 +1,6 @@
 <%-- 
-    Document   : index
-    Created on : 02-oct-2013, 11:49:07
+    Document   : AlexJsp
+    Created on : 02-oct-2013, 11:51:18
     Author     : mati
 --%>
 
@@ -12,7 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Pagina del Master(Javi)</h1>
-        <a href="/01-Holamundo/Grupo03">Ir al servlet</a>
+        <h1>Alex World!</h1>
     </body>
 </html>
