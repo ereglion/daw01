@@ -16,7 +16,7 @@
     <servlet-mapping>
         <servlet-name>Grupo04</servlet-name>
         <url-pattern>/Grupo04</url-pattern>
-
+    </servlet-mapping>
      <servlet>
         <servlet-name>grupo1Servlet</servlet-name>
         <servlet-class>P_saludar.grupo1Servlet</servlet-class>
