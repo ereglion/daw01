@@ -4,9 +4,17 @@
         <servlet-name>Saludar</servlet-name>
         <servlet-class>P_saludar.Saludar</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>Grupo04</servlet-name>
+        <servlet-class>P_saludar.Grupo04</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>Saludar</servlet-name>
         <url-pattern>/saludarmeme</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>Grupo04</servlet-name>
+        <url-pattern>/Grupo04</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
