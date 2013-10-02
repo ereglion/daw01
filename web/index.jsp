@@ -13,5 +13,6 @@
     </head>
     <body>
         <h1>Pagina del Master(Javi)</h1>
+        <a href="/01-Holamundo/Grupo03">Ir al servlet</a>
     </body>
 </html>

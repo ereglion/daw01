@@ -40,7 +40,7 @@ public class Grupo03 extends HttpServlet {
             out.println("</head>");
             out.println("<body>");
             out.println("<h1>Servlet Grupo03 at " + request.getContextPath() + "</h1>");
-            out.println("<a href=\"Alexjsp.jsp\">Página Alex</a><br/>");
+            out.println("<a href=\"AlexJsp.jsp\">Página Alex</a><br/>");
             out.println("<a href=\"dani.jsp\">Página Dani</a><br/>");
             out.println("<a href=\"jordiSaludo.jsp\">Página Jordi</a><br/>");
             out.println("<a href=\"index.jsp\">Página Javi(Master)</a>");
