@@ -1,9 +1,25 @@
 #*.class
 
 # Package Files #
+<<<<<<< HEAD
 #*.jar
 #*.war
 #*.ear
 #/nbproject/private/
 #/build/
 
+=======
+*.jar
+*.war
+*.ear
+<<<<<<< HEAD
+<<<<<<< HEAD
+/nbproject/private/
+/build/
+=======
+/nbproject/private/
+>>>>>>> origin/Diana
+=======
+/nbproject/private/
+>>>>>>> origin/enrique
+>>>>>>> 16e7d2f1bfed4bf8d58f46e6d084d871d1a47d9f
