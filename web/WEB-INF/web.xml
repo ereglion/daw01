@@ -8,23 +8,29 @@
         <servlet-name>Grupo03</servlet-name>
         <servlet-class>P_saludar.Grupo03</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>grupoJacobo</servlet-name>
+        <servlet-class>P_saludar.grupoJacobo</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>Saludar</servlet-name>
         <url-pattern>/saludarmeme</url-pattern>
     </servlet-mapping>
-
     <servlet-mapping>
         <servlet-name>Grupo03</servlet-name>
         <url-pattern>/Grupo03</url-pattern>
     </servlet-mapping>
-     <servlet>
+    <servlet>
         <servlet-name>grupo1Servlet</servlet-name>
         <servlet-class>P_saludar.grupo1Servlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>grupo1Servlet</servlet-name>
         <url-pattern>/grupo1Servlet</url-pattern>
-
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>grupoJacobo</servlet-name>
+        <url-pattern>/grupoJacobo</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
