@@ -41,6 +41,7 @@ public class grupoJacobo extends HttpServlet {
             out.println("<body>");
             out.println("<h1>Servlet grupoJacobo at " + request.getContextPath() + "</h1>");
             out.println("<a href=\"jSegovia.jsp\">Jacobo Segovia</a><br/>");
+            out.println("<a href=\"Enrique.jsp\">Enrique Gimeno</a><br/>");
             out.println("</body>");
             out.println("</html>");
         } finally {            
